@@ -1,0 +1,7 @@
+*.log
+wifi_reconnect_log.txt
+.wifi_last_ssid
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
