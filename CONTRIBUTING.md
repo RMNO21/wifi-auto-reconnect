@@ -1,9 +1,8 @@
-# Contributing Guidelines
+# Contributing to WiFi-Auto-Reconnect
 
-Thank you for contributing to wifi-auto-reconnect!
+Contributions to network resilience tooling are welcome.
 
-## Development Workflow
-1. Fork and clone the repository.
-2. Create a feature or fix branch from \$defaultBranch\.
-3. Adhere to established project standards and test your modifications locally.
-4. Submit a clear and well-documented pull request.
+## Standards
+- Zero interference with active VPN adapters.
+- Efficient Windows Task Scheduler XML automation templates.
+- Clear error logging.
